@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yannic</h1>
-<h3 align="center">A passionate student of life</h3>
+<h3 align="center">A passionate student</h3>
 <br>
 <h3 align="center">💬 Ask me about Political Science and Data Protection 💬</h3>
 
