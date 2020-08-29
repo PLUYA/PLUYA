@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yannic</h1>
 <h3 align="center">A passionate student</h3>
 
-- 🌱 I’m currently learning **R**
+- 🌱 I’m currently learning **R** and **Python**
 
 - 💬 Ask me about **Political Science**
 
